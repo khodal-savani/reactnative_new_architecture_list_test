@@ -10,10 +10,6 @@ This is a sample React Native application that displays a social feed with rando
 - FlatList implementation for optimized rendering of multiple posts.
 - Clean and modular design with reusable functions for generating random data.
 
-## Preview
-
-<img src="https://via.placeholder.com/400x300?text=App+Preview" alt="App Preview" />
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
